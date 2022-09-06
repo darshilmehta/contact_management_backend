@@ -15,7 +15,7 @@ SECRET_KEY = '8gnfl^_gqj9^o*qj@d_-^zb85v&jq!vd@qlhxge*q97l#uxc=9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'comed-learning-backend.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', '*']
 
 # Application definition
 
